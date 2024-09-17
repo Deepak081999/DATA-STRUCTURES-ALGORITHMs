@@ -52,10 +52,14 @@ Here's a list of 50 basic coding programs that are commonly asked in interviews:
 48. Find the maximum subarray sum (Kadane's algorithm)
 49. Implement a basic matrix multiplication algorithm
 50. Generate Pascal's triangle up to N rows
-Array
+
+
+# Array :
+
 Here's a list of 50 basic array coding problems that are frequently asked in interviews.
 These are generally considered easy-level questions and are often favored by
 interviewers:
+
 1. Find the maximum element in an array
 2. Find the minimum element in an array
 3. Reverse an array.
@@ -106,9 +110,14 @@ interviewers:
 48. Find the minimum distance between two numbers in an array
 49. Check if an array can be divided into pairs whose sum is divisible by k
 50. Find the maximum sum of i*arr[i] for all rotations of an array
-String
+
+
+# String :
+
 Here's a list of 50 basic string coding problems that are frequently asked in interviews. These
 are generally considered easy-level questions and are often favored by interviewers:
+
+
 1. Reverse a string
 2. Check if a string is palindrome
 3. Find the first non-repeating character in a string
