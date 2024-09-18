@@ -7,9 +7,9 @@ Here's a list of 50 basic coding programs that are commonly asked in interviews:
 3. <a href="Primenumber.java">Prime number check</a>
 4. <a href="Palindrome.java">Palindrome check number</a> AND <a href="Palindrome_String.java">Palindrome check String</a>
 5. <a href="Reverse_number.java">Reverse a string</a>
-6. Find the largest element in an array
-7. Calculate the sum of elements in an array
-8. Check if a number is Armstrong number
+6. <a href="Largest_num.java">Find the largest element in an array</a>
+7. <a href="Sum_of_ele.java">Calculate the sum of elements in an array</a>
+8. <a href="Armstrong.java">Check if a number is Armstrong number</a>
 9. Generate prime numbers up to N
 10. Binary search
 11. Bubble sort
