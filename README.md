@@ -2,7 +2,7 @@
 
 Basic Programs:
 Here's a list of 50 basic coding programs that are commonly asked in interviews:
-1. <a href="Factorial.java" > Factorial of a numbers</a>s   
+1. <a href="Factorial.java" > Factorial of a numbers</a>  
 2. <a href="Fibonacci.java">Fibonacci series</a>
 3. <a href="Primenumber.java">Prime number check</a>
 4. <a href="Palindrome.java">Palindrome check number</a>
