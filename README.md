@@ -2,7 +2,7 @@
 
 Basic Programs:
 Here's a list of 50 basic coding programs that are commonly asked in interviews:
-1. Factorial of a number
+1. Factorial of a number [Factorial.java] 
 2. Fibonacci series
 3. Prime number check
 4. Palindrome check (number and string)
