@@ -5,7 +5,7 @@ Here's a list of 50 basic coding programs that are commonly asked in interviews:
 1. <a href="Factorial.java" > Factorial of a numbers</a>  
 2. <a href="Fibonacci.java">Fibonacci series</a>
 3. <a href="Primenumber.java">Prime number check</a>
-4. <a href="Palindrome.java">Palindrome check number</a>
+4. <a href="Palindrome.java">Palindrome check number</a> AND <a href="Palindrome_String.java">Palindrome check String</a>
 5. <a href="Reverse_number.java">Reverse a string</a>
 6. Find the largest element in an array
 7. Calculate the sum of elements in an array
