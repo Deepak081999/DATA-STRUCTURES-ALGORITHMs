@@ -2,12 +2,11 @@
 
 Basic Programs:
 Here's a list of 50 basic coding programs that are commonly asked in interviews:
-1. Factorial of a number [Factorial.java] 
-  <a href="Factorial.java" > Factorial</a> 
-2. Fibonacci series
-3. Prime number check
-4. Palindrome check (number and string)
-5. Reverse a string
+1. <a href="Factorial.java" > Factorial of a numbers</a>s   
+2. <a href="Fibonacci.java">Fibonacci series</a>
+3. <a href="Primenumber.java">Prime number check</a>
+4. <a href="Palindrome.java">Palindrome check number</a>
+5. <a href="Reverse_number.java">Reverse a string</a>
 6. Find the largest element in an array
 7. Calculate the sum of elements in an array
 8. Check if a number is Armstrong number
